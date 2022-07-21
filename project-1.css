@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background-color:  #EEE;
+}
+#container{
+
+    max-width:1000px;
+    margin:0 auto;
+    background-color: #E4F9F5;
+    padding: 20px;
+
+}
+img{
+
+    width:90px;
+    height:100px;
+    float:left;
+    border:3px white solid;
+    border-radius: 50%;
+    
+}
+#section1{
+
+    float:left;
+    padding:10px;
+    color:aqua;
+    font-weight: bold;
+     
+}
+#section2{
+
+    float:right;
+    padding:10px;
+    text-decoration:none;
+    font-weight: bold;
+     
+}
+a{
+    text-decoration: none;
+     
+}
+ 
+#section2 h4 a:hover{
+
+    text-decoration: underline;
+    background-color: burlywood;
+    
+}
+.clear-div{
+
+    clear: both;
+}
+.hr2{
+
+    border:2px black solid;
+    margin:5px;
+}
+h1,h2,h3,h4,h5,h6{
+
+    color: #11999e;
+     
+}
+h4 a{
+
+    color: #11999e;
+     
+
+}
+#section{
+
+
+}
+.contant{
+
+
+}
+.left-div{
+
+    width:30%;
+    float:left;
+    margin:5px;
+    
+     
+}
+.right-div{
+ 
+    width:70%;
+    float:right;
+    margin:-25px 0 0 0;
+     
+}
+.right-div1{
+
+    float:left;
+    padding:0 10px 0 0;
+}
+.right-div2{
+
+    float:right;
+    margin-bottom:10px;
+    padding: 10px;
+}
+.right-div1 a{
+
+    text-decoration: underline;
+    padding: 0 0 5px 0;
+}
+.right-div2 a{
+
+    text-decoration: underline;
+    
+}
+hr{
+
+    margin:5px;
+}
+.style{
+
+    padding:0 0 0 20px;
+}
+.style2{
+
+    padding:0 0 10px 20px;
+}
+.defult{
+
+    background-color: black;
+    text-align: center;
+    padding:10px;
+    margin:15px 5px;
+
+} 
+.defult a{
+
+    color: white;
+    text-decoration: none;
+    margin:20px;
+}
+.defult p{
+
+    color: white;
+    margin-top:20px;
+}
+
+ 
+
+
